@@ -1,29 +1,28 @@
 # Unidad 2 - Portafolio de evidencias 🍓
 
-En este repositorio se encuentran mis actividades de la unidad 2 en la materia de Desarrollo para Dispositivos Inteligentes
+En este repositorio se encuentran mis actividades de la unidad 2 en la materia de Desarrollo para Dispositivos Inteligentes.
 
 ## Índice
 
-1. [Ejercicios 1-4](#ejercicios_1_4)
-   1. [01 Hello World](#hello_world)
-   2. [02: Variables](#variables)
-   3. [ 03: Maps](#maps)
-   4. [04: List, maps and Iterables](#listas_maps_itereables)
-2. [Ejercicios 5-8](#ejercicios_5_8)
-   5. [05: Functions](#functions)
-   6. [06: Classes.](#classes)
-   7. [07: Constructors and names.](#constructors_names)
-   8. [08: get and set](#get_sets)
-3. [Ejercicios 9-15](#ejercicios_9_15)
-   9. [09: Abstract class.](#abstract_class)
-   10. [10: Mixins.](#mixins)
-   11. [11: Futures.](#futures)
-   12. [12: Async Await. ](#async_await)
-   13. [13: Try Catch.](#try_catch)
-   14. [14: Streams.](#streams)
-   15. [15: Streams Await.](#streams_await)
-4. [Aplicaciones Flutter](#aplicaciones)
-
+1. [Ejercicios 1-4](#ejercicios-1-4)
+   1. [01: Hello World](#01-hello-world)
+   2. [02: Variables](#02-variables)
+   3. [03: Maps](#03-maps)
+   4. [04: List, Maps and Iterables](#04-list-maps-and-iterables)
+2. [Ejercicios 5-8](#ejercicios-5-8)
+   1. [05: Functions](#05-functions)
+   2. [06: Classes](#06-classes)
+   3. [07: Constructors and Names](#07-constructors-and-names)
+   4. [08: Get and Set](#08-get-and-set)
+3. [Ejercicios 9-15](#ejercicios-9-15)
+   1. [09: Abstract Class](#09-abstract-class)
+   2. [10: Mixins](#10-mixins)
+   3. [11: Futures](#11-futures)
+   4. [12: Async Await](#12-async-await)
+   5. [13: Try Catch](#13-try-catch)
+   6. [14: Streams](#14-streams)
+   7. [15: Streams Await](#15-streams-await)
+4. [Aplicaciones Flutter](#aplicaciones-flutter)
 
 ## Ejercicios 1-4
 
