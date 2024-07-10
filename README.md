@@ -19,9 +19,9 @@ En este repositorio se encuentran mis actividades de la unidad 2 en la materia d
    10. [10: Mixins.](#mixins)
    11. [11: Futures.](#futures)
    12. [12: Async Await. ](#async_await)
-   13. [09: Try Catch.](#try_catch)
-   14. [10: Streams.](#streams)
-   15. [11: Streams Await.](#streams_await)
+   13. [13: Try Catch.](#try_catch)
+   14. [14: Streams.](#streams)
+   15. [15: Streams Await.](#streams_await)
 4. [Aplicaciones Flutter](#aplicaciones)
 
 
